@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust AI",
+  "description": "Generate hyper-tailored vacation ideas on the fly using live LLM completions and Model Context Protocol (MCP) integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
